@@ -14,7 +14,7 @@ bomba nuclear, se creo un método estadístico que se llamo **Montecarlo** en re
 PI, esto se logra definiendo un circulo de radio = 1 inscrito dentro de un cuadrado de lado = 2 (ver fígura). El modo de calcular el valor de PI se logra generando una cantidad muy grande de puntos, contar todos aquellos inscritos dentro del circulo y comparar con el total de puntos generados y utilizando  
 la siguiente relación: 
 
-<img src="calcular_pi.png" data-canonical-src="calcular_pi.png" width="250"/>
+<img src="calcular_pi.png" data-canonical-src="calcular_pi.png" width="500"/>
 
 Utilizando programación concurrente y utilizando **future**/ **promise** o **async**, elaborar la siguiente función, que permita calcular el valor aproximado de PI dividiendo el conteo de puntos dentro del circulo en cantidades proporcionales de acuerdo a la cantidad de hilos. 
 
