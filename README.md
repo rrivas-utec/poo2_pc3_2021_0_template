@@ -10,7 +10,7 @@ Practica Calificada # 3 del curso de Programación Orientada a Objetos 2
 
 ## Problema #1 - Patrones
 
-Revisar archivo **CS1103 - PC03 - 2021 = 0.pdf**.
+Revisar archivo **CS1103 - PC03 - 2021-0.pdf**.
 
 ## Problema #2 - Calculo de PI - Programación concurrente (10 pts)
 Como parte del proyecto Manhantan y en el desarrollo de la
