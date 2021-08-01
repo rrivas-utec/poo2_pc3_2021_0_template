@@ -8,9 +8,9 @@ Practica Calificada # 3 del curso de Programación Orientada a Objetos 2
 - SOLO Deberás subir los siguiente archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo :
     - `p1.h p1.cpp`
 
-## Problema #1 - Patrones
+## Problema #1 - Patrones (10 pts)
 
-Revisar archivo **CS1103 - PC03 - 2021-0.pdf**.
+Revisar archivo **CS1103 - PC03 - 2021-0.pdf**
 
 ## Problema #2 - Calculo de PI - Programación concurrente (10 pts)
 Como parte del proyecto Manhantan y en el desarrollo de la
