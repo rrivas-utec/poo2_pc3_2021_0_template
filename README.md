@@ -8,7 +8,11 @@ Practica Calificada # 3 del curso de Programación Orientada a Objetos 2
 - SOLO Deberás subir los siguiente archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo :
     - `p1.h p1.cpp`
 
-## Problema #1 - Calculo de PI - Programación concurrente (10 pts)
+## Problema #1 - Patrones
+
+Revisar archivo **CS1103 - PC03 - 2021 = 0.pdf**.
+
+## Problema #2 - Calculo de PI - Programación concurrente (10 pts)
 Como parte del proyecto Manhantan y en el desarrollo de la
 bomba nuclear, se creo un método estadístico que se llamo **Montecarlo** en referencia a los casinos de Montecarlo en Monaco, este método resuelve por medio de aproximaciones el calculo de ecuaciones matemática muy complejas. Un uso didáctico de este método es el cálculo aproximado de la constante
 PI, esto se logra definiendo un circulo de radio = 1 inscrito dentro de un cuadrado de lado = 2. El modo de calcular el valor de PI se logra generando una cantidad muy grande de puntos **(x, y)**, contando todos aquellos inscritos dentro del circulo y comparandolo con el total de puntos generados, utilizando  
